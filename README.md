@@ -290,6 +290,18 @@ git pull -s recursive -X theirs upstream master
 cp src/config.sample.js src/config.js
 ```
 
+```
+git status
+```
+
+```
+git add .
+```
+
+```
+git commit -m "config"
+```
+
 * Then push the repo to OpenShift
 
 ```
